@@ -20,4 +20,9 @@ ques6: https://html-preview.github.io/?url=https://github.com/NairSreya/assignme
 ques7: https://html-preview.github.io/?url=https://github.com/NairSreya/assignment1/blob/main/index.html/ques7.css
 
 #bootsrap ques
-ques1: 
+ques1: https://shruti380.github.io/vit-mern-assignment1-22BCE10109/BsTask1.html
+ques2: https://shruti380.github.io/vit-mern-assignment1-22BCE10109/BsTask2.html
+ques3: https://shruti380.github.io/vit-mern-assignment1-22BCE10109/BsTask3.html
+ques4: https://shruti380.github.io/vit-mern-assignment1-22BCE10109/BsTask4.html
+ques5: https://shruti380.github.io/vit-mern-assignment1-22BCE10109/BsTask5.html
+ques6: https://shruti380.github.io/vit-mern-assignment1-22BCE10109/BsTask6.html
