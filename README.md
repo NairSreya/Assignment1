@@ -11,13 +11,13 @@ ques4: https://html-preview.github.io/?url=https://github.com/NairSreya/assignme
 ques5: https://html-preview.github.io/?url=https://github.com/NairSreya/assignment1/blob/main/index.html/ques5.html
 
 #css ques
-ques1: https://html-preview.github.io/?url=https://github.com/NairSreya/assignment1/blob/main/index.html/ques1.css
-ques2: https://html-preview.github.io/?url=https://github.com/NairSreya/assignment1/blob/main/index.html/ques2.css
-ques3: https://html-preview.github.io/?url=https://github.com/NairSreya/assignment1/blob/main/index.html/ques3.css
-ques4: https://html-preview.github.io/?url=https://github.com/NairSreya/assignment1/blob/main/index.html/ques4.css
-ques5: https://html-preview.github.io/?url=https://github.com/NairSreya/assignment1/blob/main/index.html/ques5.css
-ques6: https://html-preview.github.io/?url=https://github.com/NairSreya/assignment1/blob/main/index.html/ques6.css
-ques7: https://html-preview.github.io/?url=https://github.com/NairSreya/assignment1/blob/main/index.html/ques7.css
+ques1: https://shruti380.github.io/vit-mern-assignment1-22BCE10109/CssTask1.html
+ques2: https://shruti380.github.io/vit-mern-assignment1-22BCE10109/CssTask2.html
+ques3: https://shruti380.github.io/vit-mern-assignment1-22BCE10109/CssTask3.html
+ques4: https://shruti380.github.io/vit-mern-assignment1-22BCE10109/CssTask4.html
+ques5: https://shruti380.github.io/vit-mern-assignment1-22BCE10109/CssTask5.html
+ques6: https://shruti380.github.io/vit-mern-assignment1-22BCE10109/CssTask6.html
+ques7: https://shruti380.github.io/vit-mern-assignment1-22BCE10109/CssTask7.html
 
 #bootsrap ques
 ques1: https://shruti380.github.io/vit-mern-assignment1-22BCE10109/BsTask1.html
