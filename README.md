@@ -5,6 +5,7 @@ bootstrap -> consists of all bootstrap codes
 
 #html ques
 ques1: https://html-preview.github.io/?url=https://github.com/NairSreya/assignment1/blob/main/index.html/ques1.html
+
 ques2: https://html-preview.github.io/?url=https://github.com/NairSreya/assignment1/blob/main/index.html/ques2.html
 ques3: https://html-preview.github.io/?url=https://github.com/NairSreya/assignment1/blob/main/index.html/ques3.html
 ques4: https://html-preview.github.io/?url=https://github.com/NairSreya/assignment1/blob/main/index.html/ques4.html
